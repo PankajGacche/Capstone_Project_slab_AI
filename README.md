@@ -87,23 +87,3 @@ Before setting up the CI/CD pipeline, ensure you have the following tools instal
 ### Step 7: Performance Optimization
 1. Monitor pipeline performance and optimize build and deployment times.
 2. Use parallel job execution, caching, and other optimizations to reduce overhead.
-
-## Contribution Guidelines
-Feel free to contribute to this project. Please follow the steps below:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Make your changes and commit (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Create a new pull request for review.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- Jenkins, GitLab CI/CD, CircleCI
-- Terraform, Pulumi, Kubernetes
-- HashiCorp Vault
-- Docker
-- AWS, Azure, GCP
-- Prometheus, Grafana
