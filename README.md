@@ -24,6 +24,8 @@ This project integrates several tools to achieve a comprehensive, multi-cloud CI
 ## Architecture Overview
 The CI/CD pipeline will be designed to deploy applications to multiple cloud platforms (AWS, Azure, and GCP) with consistency. Here's an overview of the architecture:
 
+![image](https://github.com/user-attachments/assets/23364e9f-5ecb-4a03-8bae-b451087ba6f2)
+
 1. **Source Code Repository**: Code is stored in GitLab, GitHub, or Bitbucket. Jenkins or GitLab CI/CD will fetch the latest code commits to start the pipeline.
 
 2. **Pipeline Orchestration**: Jenkins, GitLab CI/CD, or CircleCI are used to orchestrate the workflow, including:
