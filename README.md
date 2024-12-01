@@ -5,6 +5,9 @@ Organizations are increasingly adopting multi-cloud strategies to avoid vendor l
 
 ## Project Goals
 The primary objectives of this project are:
+![image](https://github.com/user-attachments/assets/a289d2b7-032e-4d75-9917-c8a4e592afe3)
+
+![image](https://github.com/user-attachments/assets/2239bfc3-e4b5-4de7-a0b4-7cb635200264)
 
 - **Design and implement a scalable CI/CD pipeline** that can deploy applications to multiple cloud environments (e.g., AWS, Azure, GCP) while maintaining consistency across platforms.
 - **Ensure secure and efficient handling of credentials and secrets** across different cloud providers using best practices.
